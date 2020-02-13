@@ -1,0 +1,6 @@
+D:\projects\c#\tort_egyszerusito\tort_egyszerusito\bin\Debug\tort_egyszerusito.exe.config
+D:\projects\c#\tort_egyszerusito\tort_egyszerusito\bin\Debug\tort_egyszerusito.exe
+D:\projects\c#\tort_egyszerusito\tort_egyszerusito\bin\Debug\tort_egyszerusito.pdb
+D:\projects\c#\tort_egyszerusito\tort_egyszerusito\obj\Debug\tort_egyszerusito.csprojAssemblyReference.cache
+D:\projects\c#\tort_egyszerusito\tort_egyszerusito\obj\Debug\tort_egyszerusito.exe
+D:\projects\c#\tort_egyszerusito\tort_egyszerusito\obj\Debug\tort_egyszerusito.pdb
